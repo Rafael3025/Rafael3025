@@ -1,6 +1,9 @@
 ## Bem-vindo(a) ao perfil do Rafael 😁
+
+  Um pouco sobre eu.
   <br>
 Sou uma pessoa responsável, comprometida em cumprir prazos e entregar resultados de qualidade. Possuo um forte senso de trabalho em equipe, colaborando de forma positiva e proativa para alcançar os objetivos comuns. Tenho uma grande vontade de aprender, sempre buscando adquirir novos conhecimentos e me atualizar continuamente. Além disso, sou altamente adaptável, capaz de lidar com mudanças e novos desafios de maneira tranquila e eficaz.
+<br>
 <br>
  <div>
    <a href="https://github.com/Rafael3025">
