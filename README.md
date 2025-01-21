@@ -10,8 +10,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://img.icons8.com/?size=100&id=1476&format=png&color=000000"
-
+  <img align="center" alt="CSS" height="30" width="40" src="https://img.icons8.com/?size=100&id=39855&format=png&color=22C3E6">
+<br>
 <br> 
 😁Segue minhas redes sociais!😁
 <br>
