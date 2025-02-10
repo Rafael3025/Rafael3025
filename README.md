@@ -16,6 +16,7 @@ Sou uma pessoa responsável, comprometida em cumprir prazos e entregar resultado
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://img.icons8.com/?size=100&id=39855&format=png&color=22C3E6">
+  
   <img align="center" alt="CSS" height="30" width="40" src= https://github.com/user-attachments/assets/2b033752-9ad9-4991-b583-7615df844416>
 
 <br>
